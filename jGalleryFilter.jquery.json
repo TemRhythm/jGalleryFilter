@@ -1,0 +1,28 @@
+{
+    "name": "jGalleryFilter",
+    "title": "jQuery gallery filter",
+    "description": "jQuery plugin for animated filter by tags for your image or photo gallery",
+    "keywords": [
+        "gallery",
+        "animation",
+        "filtering",
+        "image",
+        "photo"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Rustem Zakiev",
+        "email": "temrhythm@gmail.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/temrhythm/jGalleryFilter/LICENSE.MD"
+        }
+    ],
+    "homepage": "https://github.com/temrhythm/jGalleryFilter",
+    "download": "http://code.jquery.com/#color",
+    "dependencies": {
+        "jquery": ">=1.9.1"
+    }
+}
