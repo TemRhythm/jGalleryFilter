@@ -21,7 +21,7 @@
         }
     ],
     "homepage": "https://github.com/temrhythm/jGalleryFilter.git",
-    "download": "http://code.jquery.com/#jGalleryFilter",
+    "download": "https://github.com/temrhythm/jGalleryFilter/archive/master.zip",
     "dependencies": {
         "jquery": ">=1.9.1"
     }
